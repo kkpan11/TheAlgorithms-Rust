@@ -1,5 +1,3 @@
-#[macro_use]
-extern crate lazy_static;
 pub mod backtracking;
 pub mod big_integer;
 pub mod bit_manipulation;
@@ -8,6 +6,7 @@ pub mod compression;
 pub mod conversions;
 pub mod data_structures;
 pub mod dynamic_programming;
+pub mod financial;
 pub mod general;
 pub mod geometry;
 pub mod graph;
